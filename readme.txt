@@ -1,0 +1,15 @@
+Packages
+pandas
+numpy
+IPython.display
+matplotlib.pyplot
+sklearn.utils
+visuals
+sklearn.metrics
+keras
+sklearn.model_selection 
+sklearn.tree
+sklearn.ensemblesklearn.neighbors
+sklearn.neighbors
+sklearn.svm
+sklearn.naive_bayes
